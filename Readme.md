@@ -1,24 +1,24 @@
-#Boilerplate MVC
+# Boilerplate MVC
 A boilerplace wich respect the MVC model
 
-##Folder
+## Folder
 
-###/controller
+### /controller
 Put all controller files in this folder 
 
-###/layout
+### /layout
 Put layout files (header, footer, etc.)
 
-###/model
+### /model
 Put all model files (database)
 
-###/public
+### /public
 Your router live here and everything that must be accessible
-from users like `images`, `CSS` and `JS
+from users like `images`, `CSS` and `JS`
 
-###/view
+### /view
 Put here all of your views
 
-##Database connection
+## Database connection
 Modify the `pdo_connection.php` with the right information : 
 address and credentials to be able to create a connection with your `mysql` server
